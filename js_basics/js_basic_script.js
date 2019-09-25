@@ -9,3 +9,5 @@ alert(motherNothing);
 
 var motherPrompt = prompt('Does this MFs ass got Kicked?');
 console.log(motherPrompt);
+
+console.log('Nothing');
